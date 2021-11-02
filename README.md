@@ -3,7 +3,7 @@
 ### <div align="center">Hi 👋, I'm Deniz</div>  
   
 
-- 🌱 I’m currently learning **REACTJS**  
+- 🌱 I’m currently learning **VueJS**  
   
 
 <br/>  
